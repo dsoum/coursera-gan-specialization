@@ -1,4 +1,4 @@
-# ![](GAN-banner.jpg)
+# ![](GAN-banner.png)
 
 # Generative Adversarial Networks Specialization on Coursera (offered by deeplearning.ai)
 
