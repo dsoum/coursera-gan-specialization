@@ -1,5 +1,4 @@
 ![](C1-banner.png)
-# ![](banner.png)
 
 # Build Basic Generative Adversarial Networks
 
